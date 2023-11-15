@@ -13,6 +13,7 @@
 		EF8E925C2B04EB4F00C0104A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF8E925A2B04EB4F00C0104A /* Main.storyboard */; };
 		EF8E925E2B04EB5100C0104A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF8E925D2B04EB5100C0104A /* Assets.xcassets */; };
 		EF8E92612B04EB5100C0104A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF8E925F2B04EB5100C0104A /* LaunchScreen.storyboard */; };
+		EF8E926B2B04F42200C0104A /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8E926A2B04F42200C0104A /* PopupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EF8E925D2B04EB5100C0104A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF8E92602B04EB5100C0104A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF8E92622B04EB5100C0104A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF8E926A2B04F42200C0104A /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EF8E92542B04EB4F00C0104A /* AppDelegate.swift */,
 				EF8E92562B04EB4F00C0104A /* SceneDelegate.swift */,
 				EF8E92582B04EB4F00C0104A /* ViewController.swift */,
+				EF8E926A2B04F42200C0104A /* PopupViewController.swift */,
 				EF8E925A2B04EB4F00C0104A /* Main.storyboard */,
 				EF8E925D2B04EB5100C0104A /* Assets.xcassets */,
 				EF8E925F2B04EB5100C0104A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF8E92592B04EB4F00C0104A /* ViewController.swift in Sources */,
+				EF8E926B2B04F42200C0104A /* PopupViewController.swift in Sources */,
 				EF8E92552B04EB4F00C0104A /* AppDelegate.swift in Sources */,
 				EF8E92572B04EB4F00C0104A /* SceneDelegate.swift in Sources */,
 			);
